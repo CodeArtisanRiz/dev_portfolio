@@ -38,8 +38,9 @@ const Hero = () => {
             />
           </div>
         </a>
+        {/* <div id='about'/> */}
       </div>
-
+      
     </section>
   )
 }

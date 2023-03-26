@@ -1,0 +1,11 @@
+Model Information:
+* title:	iMac 24" M1 Green (2021)
+* source:	https://sketchfab.com/3d-models/imac-24-m1-green-2021-0cfe04fb7123492ab96664877607333f
+* author:	Kanedog (https://sketchfab.com/Kane33)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "iMac 24" M1 Green (2021)" (https://sketchfab.com/3d-models/imac-24-m1-green-2021-0cfe04fb7123492ab96664877607333f) by Kanedog (https://sketchfab.com/Kane33) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

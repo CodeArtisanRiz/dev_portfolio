@@ -38,7 +38,7 @@ const ServiceCard = ({ index, title, icon }) => {
 
 const About = () => {
   return (
-    <>
+    <> 
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>Overview</h2>
@@ -46,12 +46,15 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className={"mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"}
+        className={"mt-4 text-secondary text-[17px] max-w-7xl leading-[30px]"}
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet neque
-        aliquid veniam debitis earum distinctio ab, hic commodi aut reiciendis
-        minima corporis rem, reprehenderit qui repellendus at! Laboriosam,
-        labore eaque!
+        I'm a proficient software developer with experience in Java, Kotlin,
+        Python, Php, and JavaScript, and expertise in frameworks like React,
+        React Native, and Three.js. With a keen eye for detail and a passion
+        for creating solutions that address real-world problems, I am committed
+        to delivering efficient, scalable, and user-friendly applications that
+        exceed clients' expectations.
+      
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((services, index) => (
