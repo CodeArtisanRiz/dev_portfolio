@@ -84,7 +84,7 @@ const Contact = () => {
           <h3 className={styles.sectionHeadText}>Contact.</h3>
 
           <form 
-            action="https://formsubmit.co/techno3gamma@gmail.com"
+            action="https://formsubmit.co/riz1.xtreme@gmail.com"
             method="post"
             id="contactForm" 
             name="sentMessage"
@@ -141,11 +141,11 @@ const Contact = () => {
                   />
                   
             </label>
-            <input 
+            {/* <input 
               type="hidden"
               name="_cc"
               value="riz1.xtreme@gmail.com"
-            />
+            /> */}
             <input 
               type="hidden"
               name="_template"
@@ -181,20 +181,6 @@ const Contact = () => {
       </motion.div>
     </div>
   );
-}
-function checkEmpty()
-{
-    if (document.getElementById("phone").value==999999999){
-
-        alert("Please enter valid phone number");
-        return false; 
-    
-    } else{
-
-        return true;
-        
-    }
-        
 }
 
 export default SectionWrapper(Contact, "contact");
