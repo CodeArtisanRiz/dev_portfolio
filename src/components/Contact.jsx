@@ -115,7 +115,8 @@ const Contact = () => {
                   />
             </label>
             <label
-              className="flex flex-col">
+              className="flex flex-col"
+              >
                 <span className="text-white font-medium mb-4">Your Phone</span>
                 <input 
                   type="number"
@@ -132,7 +133,7 @@ const Contact = () => {
               className="flex flex-col">
                 <span className="text-white font-medium mb-4">Your Message</span>
                 <textarea
-                  rows="7"
+                  rows="3"
                   id="msg"
                   name="message"
                   onChange={handleMessageChange}
